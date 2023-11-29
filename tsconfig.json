@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@nx-shadcnui/shared": ["shared/src/index.ts"],
+      "@nx-shadcnui/shared/*": ["shared/src/*"]
+    }
+  }
+}
